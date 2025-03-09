@@ -7,6 +7,7 @@
 ||addinto.com^$third-party
 ||adobe-campaign.com^$third-party
 ||advantagemedia.com^$third-party
+||affilizz.com^$third-party
 ||allpass.salemwebnetwork.com^$third-party
 ||amazonaws.com/fby.js
 ||amazonaws.com/fby/
@@ -387,6 +388,7 @@
 ||cleversite.ru/client/default/sound/
 ||cliengo.com^$media
 ||cloudfront.net/prod/media/$domain=birdeye.com
+||clustertextilzgz.com/CatalogoBorman/ca-web/mobile/style/raw/flipsound.ogg
 ||collectcdn.com^$media
 ||contivio.com/Chat2/audio/
 ||crisp.chat/static/sounds/

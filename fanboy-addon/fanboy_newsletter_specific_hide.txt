@@ -81,6 +81,8 @@ film-news.co.uk,game-news.co.uk,music-news.com,theatre-news.com###buy-tickets
 dreambigtravelfarblog.com,englandexplore.com,founderreports.com,interacnetwork.com,unexpectedlydomestic.com###cbox
 gatestoneinstitute.org,globalvoices.org,ibtimes.com.au,sinya.com.tw,westhawaiitoday.com###cboxOverlay
 gatestoneinstitute.org###cboxWrapper
+holdthecarbs.ca###chated-iframe
+holdthecarbs.ca###chated-overlay
 ambcrypto.com###cm-embed_signup
 saveur.com###cm-popup-overlay
 cpr.org###coWondersWrapper
@@ -260,6 +262,7 @@ getyourguide.com###newsletterBannerBlock
 sevendaysvt.com###newsletterBox
 trip101.com###newsletterCheckbox
 sciencefocus.com,trains.com###newsletterContainer
+founderoo.co###newsletterPopup-2
 ginospizza.ca###newsletterSignUp
 usafacts.org###newsletter__sticky
 messengernews.net,miningjournal.net,minotdailynews.com,salemnews.net###newsletter_article
@@ -370,6 +373,7 @@ usrtk.org###subscribe-modal
 thefabricator.com###subscribe-pop-wrapper
 intomore.com###subscribe-wide-side
 fivebooks.com###subscribeButton
+gamcore.com###subscribeForm
 digg.com###subscribePromotion
 forbes.com###subscribeToNewsLetters
 wined.co.za###subscribeWrapper
@@ -533,7 +537,6 @@ wbur.org##.WallOfLinks_actions__cAUTE
 cnbc.com##.WildcardEmbed-wrapper
 timesnownews.com##._37K4.RUE6
 thelogic.co##.__form-wrapper
-macleans.ca##.__wrap__2golE.nl-signup > div > .inner
 friendlyatheist.com##._background_1mspu_85
 thefiscaltimes.com,thewalrus.ca##._form
 kilgorenewsherald.com##._inline-form
@@ -674,6 +677,7 @@ cidrap.umn.edu##.block-cidrap-persistent-newsletter
 frommybowl.com##.block-cookbook
 africacheck.org##.block-cta-block
 eatingbirdfood.com,joyfoodsunshine.com,spendwithpennies.com##.block-ebook
+visordown.com##.block-echobox-subscriber-blockvisordown-newsletter
 acouplecooks.com,dinneratthezoo.com,eatyourselfskinny.com,gimmedelicious.com,inquiringchef.com,lilluna.com,noracooks.com,simplifylivelove.com,studyfinds.org,tastesbetterfromscratch.com,therecipecritic.com,tutti-dolci.com,veggiekinsblog.com,vindulge.com##.block-email
 budgetbytes.com,latenighter.com##.block-email-subscribe
 humanesociety.org##.block-email-subscription-block
@@ -697,7 +701,7 @@ acouplecooks.com,eatingbirdfood.com,eatyourselfskinny.com,feelgoodfoodie.net,hea
 inquiringchef.com##.block-save-recipe-email
 justataste.com##.block-sidebar-subscribe
 backroads.com##.block-sign-up-for-our-email-newsletter
-abeautifulmess.com,afamilyfeast.com,airandspaceforces.com,metronieuws.nl,spendwithpennies.com,thebestcakerecipes.com,want.nl##.block-subscribe
+abeautifulmess.com,afamilyfeast.com,airandspaceforces.com,metronieuws.nl,spendwithpennies.com,thebestcakerecipes.com,ubn.news,want.nl##.block-subscribe
 bandainamcoent.eu##.block-views-blocknewsletter-block-3
 ttnews.com##.block-webform-block
 press-start.com.au##.block-wrap-mailing
@@ -1022,6 +1026,7 @@ breakingnews.ie##.flex.bg-gray-900.pt-12
 aclu.org##.floating-action-wrapper
 gazoo.com##.floating-banner
 thebulletin.be##.floorad
+cyberinsider.com##.florien-campaign
 lmld.org,reluctantentertainer.com,splashoftaste.com##.fluentform
 thedial.world##.fluid-engine
 bikerumor.com,gearjunkie.com,soaphub.com##.flyout_newsletter_center
@@ -1273,7 +1278,7 @@ draxe.com##.ju_overlay
 newstatesman.com##.july22-newsletter
 qz.com##.kHmXgL
 christinacooks.com##.kadence-conversion-wrap
-beautifulpublicdata.com,blog.privacyguides.org,codereliant.io,evinfocus.com,gkogan.co,overkill.wtf,oxfordclarion.uk,scarletink.com##.kg-signup-card
+beautifulpublicdata.com,blog.privacyguides.org,codereliant.io,evinfocus.com,gkogan.co,micahflee.com,overkill.wtf,oxfordclarion.uk,scarletink.com##.kg-signup-card
 disconnect.blog##.kg-signup-card-content
 digitalocean.com##.khfYvn
 klima101.rs##.klima-subscribe
@@ -1330,6 +1335,7 @@ autoaction.com.au##.mail_signup
 go.orixrentec.jp##.mailbtn
 gatewayhispanic.com##.mailchimp-block
 papermag.com##.mailchimp-form
+runguides.com##.mailchimp-optin-bar
 thetrek.co##.mailchimp-subscribe
 thefinancialist.com##.mailchimp_form
 ewn.co.za##.mailer-signup-sidebar
@@ -1367,7 +1373,7 @@ landline.media##.mc-embed
 stripes.com##.mc-modal
 stripes.com##.mc-modal-bg
 ganjapreneur.com##.mc-signup
-dlife.com,gizmodo.com,helpnetsecurity.com##.mc4wp-form
+dlife.com,gizmodo.com,helpnetsecurity.com,news.usni.org##.mc4wp-form
 tedium.co##.md-colorbox
 elespanol.com##.md-suscription
 digg.com##.md\:p-4.p-2.rounded-md
@@ -1568,6 +1574,7 @@ mitsloan.mit.edu##.newsletter_form
 timeout.com##.newsletter_inline
 timeout.com##.newsletter_inline_banner
 fromthegrapevine.com##.newsletter_modal
+cknxnewstoday.ca##.newsletter_newsletterWrap__5DbOs
 fairplanet.org##.newsletter_popup
 venturebanc.com##.newsletter_row
 weareexplorers.co##.newsletter_sidebar_block
@@ -1689,6 +1696,7 @@ thebrokebackpacker.com##.post-form-cta
 tasteofhome.com##.post-nl-promo
 earthsky.org,kitchentreaty.com##.post-subscribe
 readtangle.com##.post-subscribe-cta-wrapper
+thenationalpulse.com##.post__newsletter
 thenationalpulse.com##.post_home__newsletter
 gwaramedia.com##.poster-wrap--subscribe-news
 everythinglifestyle.ca,fraservalleytoday.ca##.pp-btn-container
@@ -1710,7 +1718,7 @@ newsweek.com##.promo-link
 themarkup.org##.promotion--newsletter
 simpurelife.com##.proof-factor-app
 slate.com##.prudie-google-form
-celebrityaccess.com,eastasiaforum.org,mag.toyota.co.uk##.pum-overlay
+celebrityaccess.com,eastasiaforum.org,flowmountainbike.com,mag.toyota.co.uk##.pum-overlay
 thebaltimorebanner.com##.push-notification-inline-cta
 sprintmedical.in##.py-8.bg-gradient
 levernews.com##.py-\[60px\]
@@ -1920,6 +1928,7 @@ acea.auto##.stay-up-to-date-container
 oceana.mi.us##.stay_connected
 alaraby.co.uk,fbi.gov,newarab.com,puck.news##.sticky-footer
 monarchmoney.com##.sticky-signup
+ubn.news##.sticky-wrap-bottom
 aulart.com##.sticky_banner_blog
 tn.com.ar##.sticky_top
 thenewsmarket.com##.story-aside-subscribe
@@ -1985,7 +1994,7 @@ bitdegree.org,philadelphiaherald.com,reasonstobecheerful.world,thechainsaw.com##
 metro.us##.subscribe-section-container
 thefire.org##.subscribe-sticky
 semanticscholar.org##.subscribe-tile
-hartmannreport.com,spectator.org,splash247.com,thedefensepost.com,wonkette.com##.subscribe-widget
+developer-tech.com,hartmannreport.com,spectator.org,splash247.com,thedefensepost.com,wonkette.com##.subscribe-widget
 bikeexif.com##.subscribe-win
 press-start.com.au##.subscribe-wrap
 news.cornell.edu##.subscribe-wrapper
@@ -2217,7 +2226,7 @@ visualcapitalist.com##.wpforms-ajax-form
 addapinch.com,budgetbytes.com,diethood.com,dinnerthendessert.com,eatingonadime.com,eatyourselfskinny.com,feelgoodfoodie.net,kristineskitchenblog.com,meaningfuleats.com,playswellwithbutter.com,selfproclaimedfoodie.com,thecookierookie.com,themom100.com,thestayathomechef.com,tonisrecipes.com,vacationstravel.com,wellplated.com,yellowblissroad.com##.wpforms-container
 vegrecipesofindia.com##.wpforms-location-newsletter
 autocar.co.nz,health-e.org.za##.wpforms-widget
-nintendosoup.com,politik.co.nz,thehappyfoodie.co.uk##.wppopups-whole
+base-mag.com,nintendosoup.com,politik.co.nz,thehappyfoodie.co.uk##.wppopups-whole
 aspicyperspective.com,damndelicious.net##.wprm-call-to-action
 tastesbetterfromscratch.com##.wprm-custom-cta
 recipetineats.com##.wprm-entry-footer
@@ -2305,6 +2314,7 @@ nature.com##div.c-site-messages
 bustle.com##div.lqj:last-child
 usnews.com##div.mb5 > react-trigger
 nature.com##div.nature-briefing
+macleans.ca##div.wp-block > .nl-signup
 thepointsguy.com##div[class*="EmailSignUp_"]
 thenightly.com.au##div[class*="StyledFormContainer"]
 theatlantic.com##div[class^="BottomLeaflets_newsletter_"]
@@ -2501,7 +2511,7 @@ ccm.net,commentcamarche.net,hugolescargot.com,journaldesfemmes.fr,journaldunet.c
 !! .nl-block
 francetvinfo.fr,orizzontescuola.it##.nl-block
 !! .dialog-lightbox-widget
-brownstone.org,coincodecap.com,diarioelregionaldelzulia.com,homesteading.com,innotechtoday.com,jewishjournal.com,news.stonybrook.edu,shapeways.com,theglossarymagazine.com##.dialog-lightbox-widget
+brownstone.org,coincodecap.com,diarioelregionaldelzulia.com,homesteading.com,innotechtoday.com,jewishjournal.com,news.stonybrook.edu,pluggedingolf.com,shapeways.com,theglossarymagazine.com##.dialog-lightbox-widget
 !! #mailsignup
 techzine.eu,techzine.nl###mailsignup
 !! .suscribe
