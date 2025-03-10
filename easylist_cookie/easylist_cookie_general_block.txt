@@ -401,7 +401,6 @@
 /cookieprivacy.js
 /cookieprivacy.min.js
 /cookies-anekis.js
-/cookies-banner$script
 /cookies-consent.js
 /cookies-directive.js
 /cookies-disclaimer.js
@@ -496,7 +495,7 @@
 /debugged-cookiebar.min.js
 /designil-pdpa/*
 /dh_cookie_manager_1.js
-/didomi.js
+/didomi.js|
 /didomi/loader.js
 /digicookies.js
 /disclaimer-cookies.js
@@ -827,7 +826,6 @@
 /redandblue-cookies/dist/js/index.js
 /retargetting/js/setcookie.js
 /rg-gdpr.js
-/rgpd.js
 /rgpd/discreto.min.js
 /rgpd/js/*
 /rgpd/view/*

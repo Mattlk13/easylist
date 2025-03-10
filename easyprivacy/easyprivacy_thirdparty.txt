@@ -353,7 +353,6 @@
 ||basis.net/assets/up.js
 ||bat.bing.com^
 ||bat.bing.net^
-||baxter.olx.org^
 ||bazaarvoice.com/sid.gif
 ||bb.itwc.ca/js/cube.js
 ||bc.geocities.
@@ -637,6 +636,7 @@
 ||contactatonce.com/VisitorContext.aspx?
 ||container.pepperjam.com^$third-party
 ||content.cpcache.com^*/js/ga.js
+||content.kaspersky-labs.com/public/analytics-scripts/analytical_functions.js
 ||contentdriver.com/api/impression
 ||contently.com/xdomain/
 ||contentpass.net/stats?$third-party
@@ -1118,6 +1118,7 @@
 ||iadvize.com/collector/
 ||ibmcloud.com/collector/
 ||icbdr.com/images/pixel.gif
+||id.a-mx.com^
 ||id.google.*/verify/
 ||id.verticalhealth.net/script.js?partnerid=
 ||iddu1vvb7sk8-a.akamaihd.net^
@@ -1424,7 +1425,6 @@
 ||mon.domdog.io^
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
-||monitor.azure.com^
 ||monitoring.iraiser.eu^
 ||monorail-edge.shopifysvc.com^
 ||mormont.gamer-network.net^
@@ -2013,6 +2013,7 @@
 ||stats.sa-as.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
+||stats.senty.com.au^
 ||stats.shopify.com^
 ||stats.smartclip.net^
 ||stats.topofblogs.com^
@@ -2048,6 +2049,7 @@
 ||streamtheworld.com/imp?
 ||stripe.com/?event=
 ||sts.eccmp.com^
+||ststandard.com/ping
 ||stylitics.com/api/engagements
 ||su.pr/hosted_js$third-party
 ||sulia.com/papi/sulia_partner.js/$third-party
@@ -2147,6 +2149,7 @@
 ||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||telemetry.transcend.io^
 ||telemetry.vtex.com^
 ||terabox.com/api/analytics?
 ||terabox.fun/api/analytics
@@ -2259,7 +2262,6 @@
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
-||tracker.novage.com.ua^
 ||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
 ||tracker.smartframe.io^
