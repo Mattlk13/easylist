@@ -7,6 +7,7 @@
 ||addinto.com^$third-party
 ||adobe-campaign.com^$third-party
 ||advantagemedia.com^$third-party
+||affilizz.com^$third-party
 ||allpass.salemwebnetwork.com^$third-party
 ||amazonaws.com/fby.js
 ||amazonaws.com/fby/
@@ -289,6 +290,7 @@
 ||techbeat.com/wp-content/custom-php/$third-party
 ||thelovebucks.com^$third-party
 ||theoutplay.com^$third-party
+||timez.ai/widgets/$third-party
 ||tinker.com^$third-party
 ||tippola.com^$third-party
 ||toolbar.avg.com^$third-party
@@ -387,6 +389,7 @@
 ||cleversite.ru/client/default/sound/
 ||cliengo.com^$media
 ||cloudfront.net/prod/media/$domain=birdeye.com
+||clustertextilzgz.com/CatalogoBorman/ca-web/mobile/style/raw/flipsound.ogg
 ||collectcdn.com^$media
 ||contivio.com/Chat2/audio/
 ||crisp.chat/static/sounds/

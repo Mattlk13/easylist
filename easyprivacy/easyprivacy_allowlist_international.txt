@@ -99,6 +99,7 @@
 @@||pv.sohu.com/cityjson$domain=ems.com.cn
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
+@@||tracklog.58.com/referrer_ershouche_m_Now.js$domain=m.renrenche.com
 !
 !---------- Czech ----------
 !
@@ -106,6 +107,7 @@
 @@||creditas.cz/cb/public/assets/SmartTag-$script,~third-party
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
+@@||publisher.caroda.io/videoPlayer/$script,domain=online.evropa2.cz
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 !
@@ -244,7 +246,7 @@
 !
 !---------- Korean ----------
 !
-@@||naver.net/wcslog.js$domain=m.tv.naver.com
+@@||naver.net/wcslog.js$domain=fragpunk.com|m.tv.naver.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 !
 !---------- Latvian ----------

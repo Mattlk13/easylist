@@ -388,6 +388,7 @@ nativecamp.net##.hey-nc-top-banner
 plus.nhk.jp##.hls-player_message
 media.moneyforward.com##.home-ranking
 mastory.jp##.l-fixed
+yutorize.2-d.jp##.main-yakiniku-area
 media.moneyforward.com##.mp-popin-analytics
 media.moneyforward.com##.mp-recommends
 e-mansion.co.jp##.new-building-label
@@ -404,6 +405,7 @@ sp.nicovideo.jp##.searchResult-nicoadNicodicItem
 sofmap.com##.side_bnr
 filmora.wondershare.jp##.ws-ad-new
 qiita.com##div[data-testid="popup-login"]
+gendai.media##div[data-testid="sidebar-ad-slider"]
 loungegamejoin.site##div[id^="idGoogleAd"]
 ||amazonaws.com/cdn.ma-site.com/common/chatbots.js$domain=mastory.jp
 ||api.popin.cc^$third-party

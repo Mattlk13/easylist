@@ -104,7 +104,6 @@
 ||adsave.co^$third-party
 ||adsensedetective.com^$third-party
 ||adsmatcher.com^$third-party
-||adsrvr.org^$third-party
 ||adtarget.me^$third-party
 ||adtector.com^$third-party
 ||adtelligence.de^$third-party
@@ -142,6 +141,7 @@
 ||agilesrv.com^$third-party
 ||agilone.com^$third-party
 ||agrvt.com^$third-party
+||ahrefs.com^$third-party
 ||aimediagroup.com^$third-party
 ||air2s.com^$third-party
 ||airbrake.io^$third-party
@@ -204,7 +204,6 @@
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
 ||appdynamics.com^$third-party
-||applicationinsights.io^$third-party
 ||appn.center^$third-party
 ||aprtn.com^$third-party
 ||aprtx.com^$third-party
@@ -1010,7 +1009,6 @@
 ||ibpxl.com^$third-party
 ||ibpxl.net^$third-party
 ||ic-live.com^$third-party
-||icanhazip.com^$third-party
 ||iclive.com^$third-party
 ||icstats.nl^$third-party
 ||iculture.report^$third-party
@@ -1329,7 +1327,7 @@
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
 ||mezzobit.com^$third-party
-||mgln.ai^$third-party
+||mgln.ai^$~media,third-party
 ||miadates.com^$third-party
 ||mialbj6.com^$third-party
 ||micpn.com^$script,third-party

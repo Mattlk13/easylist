@@ -941,6 +941,7 @@
 ||mangaraw.to/api/v1/view/
 ||masutabe.info/js/access.js
 ||mayla.jp/TRACKING/
+||mbp-japan.com/js/pv.js
 ||measure.ameblo.jp^
 ||medibot.delling.care/api/counts/
 ||mixi.net/static/js/build/mixi-analysis.production.js
@@ -1042,7 +1043,6 @@
 ||log.zdnet.co.kr^
 ||naver.com/jackpotlog/
 ||naver.com/PostView.nhn?$image
-||nlog.naver.com^
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
 ||seoul.co.kr/weblog/
